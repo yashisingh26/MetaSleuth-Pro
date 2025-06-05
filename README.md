@@ -19,8 +19,7 @@
 - 🔓 Reveal hidden metadata from files, images, documents, and archives  
 - 🌐 Map GPS coordinates from photos and documents  
 - 🧠 Detect privacy risks before file sharing  
-- 📊 Visualize data in timelines, graphs, and location maps  
-- 🧰 Use with CLI or GUI, locally or via Docker  
+- 📊 Visualize data in timelines, graphs, and location maps   
 
 > Think ExifTool meets Sherlock Holmes—with a modern twist.
 
@@ -33,6 +32,6 @@
 - 🔐 **Privacy Auditing** to expose sensitive leaks  
 - 📉 **Data Visualization** (interactive timeline & map views)  
 - ⚡ **Fast, Lightweight, Cross-Platform**  
-- 🖥 **Command-Line & GUI Modes**  
+- 🖥 **GUI Modes**  
 
 ##Author : Yashi Singh
