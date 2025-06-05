@@ -27,7 +27,7 @@
 
 ## ✨ Key Features
 
-- 🧬 **Advanced Metadata Extraction** from DOCX, PDF, JPEG, PNG, MP3, ZIP, and more  
+- 🧬 **Advanced Metadata Extraction** from JPEG, PNG and more  
 - 🛰 **GPS Mapping** to plot where files were created  
 - 🔐 **Privacy Auditing** to expose sensitive leaks  
 - 📉 **Data Visualization** (interactive timeline & map views)  
