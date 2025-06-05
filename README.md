@@ -16,10 +16,10 @@
 
 **MetaSleuth-Pro** is a next-gen metadata extraction and digital footprint analysis tool that helps you:
 
-- 🔓 Reveal hidden metadata from files, images, documents, and archives  
-- 🌐 Map GPS coordinates from photos and documents  
+- 🔓 Reveal hidden metadata from images files
+- 🌐 Map GPS coordinates from photos
 - 🧠 Detect privacy risks before file sharing  
-- 📊 Visualize data in timelines, graphs, and location maps   
+- 📊 Visualize data in timelines , location maps   
 
 > Think ExifTool meets Sherlock Holmes—with a modern twist.
 
